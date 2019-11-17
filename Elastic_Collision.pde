@@ -1,10 +1,3 @@
-/*
- Comp3490 Assignment 3 Question 1
- 
- Name: Sijin Lee 
- ID: 7822352 
- Email: lees3436@myumanitoba.ca 
-*/
 
 
 //update motion every 0.1 sec. 
